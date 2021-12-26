@@ -247,6 +247,10 @@ body {
     text-align: center;
 }
 
+.input-title{
+    padding-bottom: 50px;
+}
+
 .input-name {
     width: 300px;
     height: 56px;
@@ -257,7 +261,7 @@ body {
 
 .buyurtma-input {
     width: 167px;
-    background-color: #fff;
+    background-color: #00bafc;
     margin-top: 20px;
     padding-top: 8px;
     padding-bottom: 8px;
@@ -272,10 +276,15 @@ body {
     height: 305px;
     color: #fff;
     margin-top: 50px;
-    padding-left: 476px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
 }
 
 .input-buyurtma{
+    color: #fff;
+
     text-decoration: none;
 }
 
@@ -328,3 +337,4 @@ body {
     margin-left: 100px;
     margin-top: 56px;
 }
+
